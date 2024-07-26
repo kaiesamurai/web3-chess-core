@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3453212c-aebd-4106-b987-aeb702af7059)# Web3 Chess
+# Web3 Chess
 
 Welcome to Web3 Chess, the decentralized chess platform where you can not only enjoy the timeless game of chess but also earn rewards and collect unique NFTs.
 
