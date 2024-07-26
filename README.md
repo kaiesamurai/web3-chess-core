@@ -1,4 +1,4 @@
-# Web3 Chess
+![image](https://github.com/user-attachments/assets/3453212c-aebd-4106-b987-aeb702af7059)# Web3 Chess
 
 Welcome to Web3 Chess, the decentralized chess platform where you can not only enjoy the timeless game of chess but also earn rewards and collect unique NFTs.
 
@@ -25,7 +25,9 @@ CORE is a blockchain platform designed for running smart contract-based applicat
 #### NFT Contract Address: 0xffD4D54e3968Ff98B64bdFBa7EEf06984952D75a
 #### Game Contract Address: 0xFEF212aE02a46198eEEb07Da9348f9FA9bbff7AD
 #### Marketplace Contract Address: 0x8C1208A372f8D62BDA9e18bD51165266E45DF0Cc
-
+![image](https://github.com/user-attachments/assets/a6c2bb57-9d7d-4130-9429-68c19ffdcd21)
+![image](https://github.com/user-attachments/assets/7e174edc-40e9-4a10-a247-c4b6cd072a7c)
+![image](https://github.com/user-attachments/assets/8ff32649-121d-479b-ae81-dbbd4358de9d)
 
 
 ## Features
